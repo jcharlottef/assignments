@@ -1,0 +1,128 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         7 characters
+	Most common values:    F000372 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         33 characters
+	Most common values:    2018 HON. RODNEY P. FRELINGHUYSEN (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    Q4 (1x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    PERSONNEL COMPENSATION (1x)
+
+  6. "SORT SEQUENCE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    DETAIL (1x)
+
+  7. "DATE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (1x)
+
+  8. "TRANSCODE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (1x)
+
+  9. "RECORDID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (1x)
+
+ 10. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         16 characters
+	Most common values:    HOBBIS KATHRYN C (1x)
+
+ 11. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2018-10-01
+	Largest value:         2018-10-01
+	Most common values:    2018-10-01 (1x)
+
+ 12. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2018-12-31
+	Largest value:         2018-12-31
+	Most common values:    2018-12-31 (1x)
+
+ 13. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         25 characters
+	Most common values:    LEGISLATIVE CORRESPONDENT (1x)
+
+ 14. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        16,666.67
+	Largest value:         16,666.67
+	Sum:                   16,666.67
+	Mean:                  16,666.67
+	Median:                16,666.67
+	Most common values:    16,666.67 (1x)
+
+ 15. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2,018
+	Largest value:         2,018
+	Sum:                   2,018
+	Mean:                  2,018
+	Median:                2,018
+	Most common values:    2,018 (1x)
+
+Row count: 1

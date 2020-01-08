@@ -1,0 +1,1 @@
+I ran the spreadsheet though a pythod code that found all purchases of water over 1000 and put them into a seperate spreadsheet. The I found the summary of this spreadhseet using the csvstat tools
