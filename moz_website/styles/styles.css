@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+}
+.test{
+  width: 500px;
+  border: 1px solid black;}
+
+  #italic{
+  	font-style: italic;
+  }
+
+body {
+  background-image: linear-gradient(lightblue, yellow);
+}
