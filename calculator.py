@@ -6,8 +6,11 @@ def subtract(a,b):
 	return a - b
 def divide(a,b):
 	return a / b
+def sqaure(a):
+	return a**2
+
 
 print("I'm going use the calculator functions to multiply 10 and 2")
-x = multiply(10,2)
+x = sqaure(5)
 print(x)
 
