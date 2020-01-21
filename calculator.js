@@ -1,4 +1,6 @@
-// This part of the code defines a function
+//this script creates functions for a caluculator
+
+// This part of the code defines the functions
 function multiply(a,b) { 
     return a * b
 }
@@ -14,7 +16,6 @@ function subtract(a,b) {
 function divide(a,b) { 
     return a / b
 }
-
 
 
 // This part of the code then calls that function and assigns the variable x to its return value
